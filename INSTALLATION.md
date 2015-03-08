@@ -61,3 +61,10 @@ sudo ln -s /usr/local/mysql/lib/libmysqlclient.18.dylib /usr/lib/libmysqlclient.
 ```
 
 However installing `portaudio` and/or `ffmpeg` from source is also doable. 
+
+# for Ubuntu
+sudo apt-get install python2.7-mysqldb
+sudo apt-get install python-numpy
+sudo apt-get install python-pip
+sudo pip install pydub
+sudo pip install matplotlib
