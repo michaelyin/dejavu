@@ -65,6 +65,7 @@ However installing `portaudio` and/or `ffmpeg` from source is also doable.
 # for Ubuntu
 sudo apt-get install python2.7-mysqldb
 sudo apt-get install python-numpy
+sudo apt-get install python-scipy
 sudo apt-get install python-pip
 sudo pip install pydub
 sudo pip install matplotlib
