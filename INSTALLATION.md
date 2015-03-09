@@ -70,4 +70,5 @@ sudo apt-get install python-scipy
 sudo apt-get install python-pip
 sudo pip install pydub
 sudo pip install matplotlib
+python-pyaudio
 ```
